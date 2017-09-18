@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background: url(https://github.com/t-iden/t-iden.github.io/blob/master/unit_3/images/HJF-dk-blue.jpg);
+	background-size: cover;
+	color: #fff;
+	font-family: Raleway;
+}
+
+hr {
+	width: 200px;
+}
+
+p {
+	font-size: 22px;
+}
