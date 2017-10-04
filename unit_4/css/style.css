@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya:700|Dosis:300');
+
+body {
+	text-align: center;
+	background-color: #005595;
+}
+
+h1 {
+	color: white;
+	font-size: 44px;
+	text-decoration: none;
+	font-family: 'Alelgreya', serif;
+}
+	
+h3 {
+	color: #fefefe;
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+#heroimage{   
+  background:url(https://ogrencikariyeri.com/haber/wp-content/uploads/2017/03/Biomedical-Engineering-3.jpg);
+  background-size:cover;
+	color: white;
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+	text-transform: uppercase;
+}
